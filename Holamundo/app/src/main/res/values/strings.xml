@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hola mundo</string>
+    <string name="texto_de_prueba">Texto de Prueba</string>
+    <string name="dos">DOS</string>
+    <string name="uno">UNO</string>
+    <string name="tres">TRES</string>
+    <string name="introduzca_su_nombre">Introduzca su nombre</string>
+    <string name="sevilla">Sevilla</string>
+    <string name="m_laga">Málaga</string>
+    <string name="c_diz">Cádiz</string>
+    <string-array name="semana">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+        </string-array>
+</resources>
